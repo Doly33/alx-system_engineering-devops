@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -xamp     or ls -amvp
+ls -xamp    
